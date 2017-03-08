@@ -24,7 +24,8 @@
   * Hint: `append` the title to the list
   * Hint: Print out your list when it reaches the length of 3
   * Hint: Use `break` after you print to break out of the `while` loop or else you will keep going on forever. 
-* Everything you need to accomplish this is here: Try it out!  Dont be afraid to fail :) 
+* Everything you need to accomplish this is here in the Follow Along listed below: 
+* Try it out!  You got this! Dont be afraid to fail :) 
 
 ### Group Coding Exercise
 * Follow Along in Codester: Functions and Overview of Core4
