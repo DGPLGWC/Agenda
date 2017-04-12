@@ -8,9 +8,20 @@
 * HTML/CSS in CSS Deck Refresh
 * Project Development in Cloud9
 * Push your code to Github
-
+  
 ### MarkUp exercise in HTML/CSS
 * [CSS Deck](http://cssdeck.com/labs/7zux8zo7)
+
+### Instructions For GitHub
+* [Cartoon Trivia] (https://github.com/DGPLGWC/cartoontrivia)
+* [Smash The Patriarchy] (https://github.com/DGPLGWC/smashthepatriarchy)
+* [Choose Your Adventure] (https://github.com/DGPLGWC/chooseyouradventure)
+* [Smile Community] (https://github.com/DGPLGWC/smilecommunity)
+
+#### Resolve SSH Keys
+[Follow these instructions] (https://docs.google.com/document/d/1jujKjUwmfgS6q7MxN0jPhG4dXASVuWP17bMingNuugg/edit?usp=sharing)
+![Cut](../images/github.jpg) 
+![Paste](../images/cloud9.jpg)
 
 ### Group Work
 * Work on your swim lines (TODO, IN PROGRESS, DONE)
